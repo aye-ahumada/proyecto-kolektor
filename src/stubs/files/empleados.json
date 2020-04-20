@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Gerardo",
+    "apellido": "García",
+    "edad": 55
+  },
+  {
+    "nombre": "Carolina",
+    "apellido": "Cervantes",
+    "edad": 68
+  },
+  {
+    "nombre": "Ana María",
+    "apellido": "Heredia",
+    "edad": 46
+  },
+  {
+    "nombre": "Jorge",
+    "apellido": "Díaz",
+    "edad": 70
+  },
+  {
+    "nombre": "Marianela",
+    "apellido": "Hernandez",
+    "edad": 31
+  },
+  {
+    "nombre": "Josefina",
+    "apellido": "Quiroga",
+    "edad": 73
+  },
+  {
+    "nombre": "Walter",
+    "apellido": "Zúñiga",
+    "edad": 57
+  }
+]
